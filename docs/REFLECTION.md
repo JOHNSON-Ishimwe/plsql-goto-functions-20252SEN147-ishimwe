@@ -45,6 +45,6 @@ Handling NO_DATA_FOUND
 
 Queries using SELECT INTO raise NO_DATA_FOUND if zero rows match. Intercepting this exception within an explicit BEGIN...EXCEPTION block allows the subprogram to handle missing data gracefully (e.g., returning NULL or a default fallback value) instead of failing catastrophically.
 ## Screenshots
-![A1](screenshots/A1_output.png) ... (one per screenshot)
+[text](REFLECTION.md) ![text](<../screenshots/Screenshot (258).png>) ![text](<../screenshots/Screenshot (260).png>) ![text](<../screenshots/Screenshot (262).png>) ![text](<../screenshots/Screenshot (269).png>) ![text](<../screenshots/Screenshot (271).png>) ![text](<../screenshots/Screenshot (273).png>) ![text](<../screenshots/Screenshot (274).png>) ![text](<../screenshots/Screenshot (276).png>) ![text](<../screenshots/Screenshot (277).png>) ![text](<../screenshots/Screenshot (278).png>) ![text](<../screenshots/Screenshot (280).png>)
 ## Notes
 I used gemni for git folder navigation codes which i did not know at the time .
